@@ -8,7 +8,7 @@ The client provided KPMG with 3 datasets:
 Customer demographics
 Customer addresses
 Transactions
-📂 Task 1 - Data Quality Assessment
+<br> 📂 Task 1 - Data Quality Assessment
 Background Information
 Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy.
 
@@ -23,7 +23,7 @@ Transactions data in the past 3 months
 Objectives
 Review and evaluate the data based on Standard Data Quality Dimensions.
 Identify strategies to mitigate that issues.
-📂 Task 2 - Data Insights
+<br>📂 Task 2 - Data Insights
 Background Information
 Sprocket Central Pty Ltd marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour. Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, we will recommend which of these 1000 new customers should be targeted to drive the most value for the organisation.
 
@@ -31,7 +31,7 @@ Sprocket Central Pty Ltd marketing team is looking to boost business by analysin
 Objective
 Built customer segmentation based on RFM model
 Analyzing customer trends, behaviour, and demographic
-📂 Task 3 - Data Insights and Presentation
+<br>📂 Task 3 - Data Insights and Presentation
 Background Information
 After building the model we need to present our results back to the client. A list of customers or algorithm won’t cut it with the client, we need to support our results with the use of visualisations.
 
