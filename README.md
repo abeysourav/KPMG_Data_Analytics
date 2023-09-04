@@ -38,4 +38,5 @@ After building the model we need to present our results back to the client. A li
 
 Objective
 Develop a dashboard
-<img width="750" alt="Screenshot 2023-09-05 at 12 23 53 AM" src="https://github.com/abeysourav/KPMG_Data_Analytics/assets/105174936/7524a85f-6ce9-4de6-b2d0-cada713b6a84">
+
+<br><img width="750" alt="Screenshot 2023-09-05 at 12 23 53 AM" src="https://github.com/abeysourav/KPMG_Data_Analytics/assets/105174936/7524a85f-6ce9-4de6-b2d0-cada713b6a84">
